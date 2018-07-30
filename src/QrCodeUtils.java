@@ -201,16 +201,6 @@ public class QrCodeUtils {
      */
     public static void main(String[] args) throws Exception {
 
-//        DateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-//
-//        Date d1 = df.parse("2018-01-02 00:00:00");
-//
-//
-//        String str = df.format(d1);
-//        System.out.println(d1);
-//        System.out.println(str);
-//
-
         // 此处为我创建Excel路径：E:/zhanhj/studysrc/jxl下
         File file = new File("F:/1.xls");
         List<String> list = new ArrayList<>();
