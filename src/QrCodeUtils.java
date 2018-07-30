@@ -246,6 +246,11 @@ public class QrCodeUtils {
 
     }
 
+    /**
+     * 2018/7/30
+     * @param file
+     * @return
+     */
     public static List<String> readExcel(File file) {
 
         List<String> list = new ArrayList<>();
